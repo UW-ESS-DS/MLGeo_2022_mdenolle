@@ -1,0 +1,9 @@
+name: mlgeo_sk
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
